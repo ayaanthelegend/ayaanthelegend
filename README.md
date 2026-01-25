@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am a professional Game developer who has no life and I am currently working on a 2d mobile platformer game which will be released on android.
+I am a professional Game developer who has no life 
+
 
 
 ## 🌐 Socials:
