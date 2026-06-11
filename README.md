@@ -1,25 +1,148 @@
-# 💫 About Me:
-I am a professional Game developer who has no life 
+```markdown
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,30:6366F1,60:7C3AED,100:8B5CF6&text=Ayaan%20Bilal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Software+Engineer;Backend+Developer;AI+%2F+ML+Enthusiast;Game+Developer;Building+Ideas+Into+Reality" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yt_ayaanplayz) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@ayaanplayz7946) 
+<br>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ayaanthelegend&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ayaanthelegend&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayaanthelegend&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://img.shields.io/badge/Backend-Engineering-6D28D9?style=for-the-badge)
+![](https://img.shields.io/badge/AI%20%2F%20ML-Developer-7C3AED?style=for-the-badge)
+![](https://img.shields.io/badge/Game-Development-4F46E5?style=for-the-badge)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ayaanthelegend&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://img.shields.io/badge/Location-Somewhere-4338CA?style=flat-square)
+![](https://img.shields.io/badge/Open%20To-Any%20Challenge-7C3AED?style=flat-square)
+
+<a href="https://portfolio.com">
+<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-8B5CF6?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ayaan-bilal-39a303369/">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-4F46E5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:Ayaanbilal2008@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-6D28D9?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/Ayaanthelegend">
+<img src="https://img.shields.io/badge/GitHub-Ayaanthelegend-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=Ayaanthelegend&style=flat-square&color=7C3AED)
+![](https://img.shields.io/github/followers/Ayaanthelegend?style=flat-square&color=7C3AED)
+![](https://img.shields.io/github/stars/Ayaanthelegend?style=flat-square&color=4F46E5)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ayaanthelegend&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# About Me
+
+I'm a developer who enjoys creating systems that solve problems rather than simply writing code.
+
+My primary interests lie in **backend engineering, artificial intelligence, automation, and game development**, where performance, scalability, and architecture matter as much as functionality.
+
+Instead of focusing on small scripts, I prefer building complete products—from APIs and AI integrations to interactive applications and developer tools.
+
+### Open To
+
+- Backend Engineering
+- AI & Machine Learning Projects
+- Open Source Contributions
+- Game Development
+- Research Projects
+- Startup Collaboration
+- Competitive Programming
+- Building Crazy Ideas
+
+---
+
+# Tech Stack
+
+## Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,cs"/>
+
+</p>
+
+---
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,flask,django,fastapi,express"/>
+
+</p>
+
+---
+
+## AI / ML
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
+
+</p>
+
+- LLM Development
+- Fine Tuning
+- Prompt Engineering
+- Neural Networks
+- Model Evaluation
+- Computer Vision
+
+---
+
+## Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres"/>
+
+</p>
+
+---
+
+## Game Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=unity,unreal,godot"/>
+
+</p>
+
+---
+
+## DevOps & Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux"/>
+
+</p>
+
+---
+
+
+
+---
+
+<div align="center">
+
+## Engineering Philosophy
+
+> **"Write software that scales, automate everything possible, and let performance speak louder than complexity."**
+
+</div>
+
+---
+```
