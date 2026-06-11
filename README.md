@@ -43,11 +43,10 @@
 
 # About Me
 
-I'm a developer who enjoys creating systems that solve problems rather than simply writing code.
+I am a dumb coder who codes pretty much anything and takes forever cause i focus on project bbased learning
 
-My primary interests lie in **backend engineering, artificial intelligence, automation, and game development**, where performance, scalability, and architecture matter as much as functionality.
+My primary interests lie in **Ai and Game development**.
 
-Instead of focusing on small scripts, I prefer building complete products—from APIs and AI integrations to interactive applications and developer tools.
 
 ### Open To
 
