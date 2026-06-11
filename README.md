@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,30:6366F1,60:7C3AED,100:8B5CF6&text=Ayaan%20Bilal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
@@ -81,13 +80,6 @@ Instead of focusing on small scripts, I prefer building complete products—from
 
 <img src="https://skillicons.dev/icons?i=nodejs,flask,django,fastapi,express"/>
 
-</p>
-
----
-
-## AI / ML
-
-<p>
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
 
@@ -145,4 +137,4 @@ Instead of focusing on small scripts, I prefer building complete products—from
 </div>
 
 ---
-```
+
